@@ -56,7 +56,7 @@ The visualization of the hiring trends data is performed using Power BI. We have
 ## Conclusion
 The Data Analysis on Hiring Trends project enables you to extract data from Bumble Inc.'s LinkedIn page using the `scrapper.py` script, clean and structure it using Pandas, and store it in a CSV file for analysis. The data extraction process utilizes Selenium and BeautifulSoup, while the data cleaning process utilizes Pandas. You can access the CSV data and visualize it using Power BI. By following the instructions mentioned above, you can successfully run the script in Visual Studio Code, extract and clean the data, store it in a CSV file, and explore the visualization dashboard in Power BI. Feel free to customize the script or the visualization to suit your specific needs.
 
-For any further questions or issues, please contact the project team at [email address]. We appreciate your interest in our project and hope it proves useful for analyzing hiring trends.
+For any further questions or issues, please contact the project team at [ch20btech11012@iith.ac.in]. We appreciate your interest in our project and hope it proves useful for analyzing hiring trends.
 
 Thank you for choosing the Data Analysis on Hiring Trends project!
 
