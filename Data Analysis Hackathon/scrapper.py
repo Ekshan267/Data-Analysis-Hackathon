@@ -12,11 +12,11 @@ driver.get("https://linkedin.com/uas/login")
 time.sleep(5)
 
 username = driver.find_element(By.ID, "username")
-username.send_keys("ch20btech11012@iith.ac.in")
+username.send_keys("")
 
 pword = driver.find_element(By.ID, "password")
 
-pword.send_keys("@267Ekshan")
+pword.send_keys("")
 
 driver.find_element(By.XPATH, "//button[@type='submit']").click()
 driver.maximize_window()
